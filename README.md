@@ -1,6 +1,6 @@
 # tiny-agent-graph
 
-A small, dependency-free **state graph** for LLM agent loops, in about 400 lines of Python 3.9+.
+A small, dependency-free **state graph** for LLM agent loops, in about 400 lines of Python 3.10+.
 It shows the core ideas behind graph-based agent frameworks such as LangGraph — nodes, routed
 edges, state reducers, checkpoints and human-in-the-loop interrupts — in code you can read in
 one sitting and drop into any project.
